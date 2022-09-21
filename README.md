@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mina Albert Saeed Hermina</h1>
+<h1 align="center">Hi 👋, I'm Mina Albert Saeed </h1>
 <h3 align="center">A Student at Faculty of Computers and AI - Cairo university.</h3>
 
 - 🌱 I’m currently learning **Data Structures, Algorithms, Data Science**
