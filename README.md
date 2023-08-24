@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minaalbert33&label=Profile%20views&color=0e75b6&style=flat" alt="minaalbert33" /> </p>
 
-- 🌱 I’m currently learning **Backend Engineering**
+- 🌱 I’m currently learning **Linux Systems Engineering**
 
 - 📫 How to reach me **mina.albert33@gmail.com**
 
