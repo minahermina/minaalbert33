@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mina Albert Saeed Hermina</h1>
+<h1 align="center">Hi , I'm Mina Albert Saeed Hermina</h1>
 <h3 align="center">A 3rd year student at Faculty of Computers and AI - Cairo university</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minaalbert33&label=Profile%20views&color=0e75b6&style=flat" alt="minaalbert33" /> </p>
